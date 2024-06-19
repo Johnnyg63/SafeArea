@@ -1,0 +1,10 @@
+com.SafeArea.app-arm8-0 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\build\generated\res\pngs\arm8\debug
+com.SafeArea.app-arm8-1 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\build\generated\res\resValues\arm8\debug
+com.SafeArea.app-arm8-2 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\build\generated\res\rs\arm8\debug
+com.SafeArea.app-mergeArm8DebugResources-3 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\build\intermediates\incremental\arm8Debug\mergeArm8DebugResources\merged.dir
+com.SafeArea.app-mergeArm8DebugResources-4 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\build\intermediates\incremental\arm8Debug\mergeArm8DebugResources\stripped.dir
+com.SafeArea.app-merged_res-5 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\build\intermediates\merged_res\arm8Debug
+com.SafeArea.app-arm8-6 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\arm8\res
+com.SafeArea.app-arm8Debug-7 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\arm8Debug\res
+com.SafeArea.app-debug-8 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\debug\res
+com.SafeArea.app-main-9 C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\res

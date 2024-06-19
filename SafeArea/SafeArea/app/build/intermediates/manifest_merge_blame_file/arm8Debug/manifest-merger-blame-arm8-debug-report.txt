@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!-- Release 2.2.8 -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="com.SafeArea"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml
+11
+12    <application
+12-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:9:3-25:17
+13        android:allowBackup="false"
+13-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:10:7-34
+14        android:debuggable="true"
+15        android:label="@string/app_name" >
+15-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:11:7-39
+16        <activity
+16-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:12:5-24:16
+17            android:name="android.app.NativeActivity"
+17-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:12:15-56
+18            android:exported="true"
+18-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:13:15-38
+19            android:label="@string/app_name"
+19-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:14:15-47
+20            android:screenOrientation="landscape" >
+20-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:15:12-49
+21            <meta-data
+21-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:17:2-18:48
+22                android:name="android.app.lib_name"
+22-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:17:13-48
+23                android:value="SafeArea" />
+23-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:18:21-45
+24
+25            <intent-filter>
+25-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:20:7-23:23
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:21:9-61
+26-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:21:17-58
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:22:9-69
+28-->C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea\app\src\main\AndroidManifest.xml:22:19-66
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

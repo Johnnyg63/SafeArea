@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<payload>
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\AppDelegate.h" changed="2024-06-18T15:51:58+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\AppDelegate.mm" changed="2024-06-18T15:51:58+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\Base.lproj\Main.storyboard" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\GameViewController.h" changed="2024-06-18T15:51:58+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\GameViewController.mm" changed="2024-06-19T15:12:13.6210222+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\vcreference.xcconfig" changed="2024-06-19T17:11:31.4081823+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\main.mm" changed="2024-06-18T16:45:52+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\ios_native_app_glue.h" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\ios_native_app_glue.cpp" changed="2024-06-19T15:12:13.6532721+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS.Application.xcodeproj\.lastSyncTime" changed="2024-06-19T16:31:34.3386478+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS.Application.xcodeproj\project.pbxproj" changed="2024-06-19T16:35:42.9312566+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\sounds\SampleA.wav" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\sounds\SampleB.wav" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\sounds\SampleC.wav" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\sounds\Sample_Test_44100.wav" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\sounds\Sample_Test_48000.wav" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\sounds\song1.mp3" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\sounds\testmusic.mp3" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\objectfiles\unitcube.obj" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\maps\example1.city" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\images\car_top.png" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\images\car_top1.png" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\images\City_Roads1_mip0.png" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\images\dirtblock.png" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\images\north_south_east_west_logo.png" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\assets\images\olcpgemobilelogo.png" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\Images.xcassets\AppIcon.appiconset\Contents.json" changed="2024-06-18T15:41:36+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS.Application.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist" changed="2024-06-19T16:31:34.4161562+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS.Application.xcodeproj\project.xcworkspace\xcuserdata\mickymac.xcuserdatad\UserInterfaceState.xcuserstate" changed="2024-06-19T16:31:34.4348317+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS.Application.xcodeproj\xcuserdata\mickymac.xcuserdatad\xcschemes\xcschememanagement.plist" changed="2024-06-19T16:31:34.4500422+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\\vcreference.xcconfig" changed="2024-06-19T17:11:31.4081823+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\SafeArea.iOS.Application\SafeArea.iOS\Info.plist" changed="2024-06-18T15:41:36+01:00" />
+</payload>

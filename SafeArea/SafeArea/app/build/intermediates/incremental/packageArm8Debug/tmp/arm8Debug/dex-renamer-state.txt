@@ -1,0 +1,7 @@
+#Wed Jun 19 16:54:51 IST 2024
+base.1=C\:\\Users\\jgalv\\source\\repos\\SafeArea\\SafeArea\\SafeArea\\app\\build\\intermediates\\dex\\arm8Debug\\mergeProjectDexArm8Debug\\8\\classes.dex
+path.1=8/classes.dex
+base.0=C\:\\Users\\jgalv\\source\\repos\\SafeArea\\SafeArea\\SafeArea\\app\\build\\intermediates\\dex\\arm8Debug\\mergeProjectDexArm8Debug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

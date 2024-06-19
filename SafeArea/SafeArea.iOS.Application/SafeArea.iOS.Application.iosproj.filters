@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="SafeArea.iOS">
+      <UniqueIdentifier>{d9cba4cc-fd88-4ab9-8e95-55d093f51c28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SafeArea.iOS\Images.xcassets">
+      <UniqueIdentifier>{a4fbff46-d8a9-4ec7-a104-16b6755dcc9b}</UniqueIdentifier>
+      <Extensions>SafeArea.iOS\Images.xcassets\*</Extensions>
+    </Filter>
+    <Filter Include="SafeArea.iOS\Images.xcassets\AppIcon.appiconset">
+      <UniqueIdentifier>{8fc504a2-1a5c-4de9-8939-10a26626a782}</UniqueIdentifier>
+      <Extensions>SafeArea.iOS\Images.xcassets\AppIcon.appiconset\*</Extensions>
+    </Filter>
+    <Filter Include="SafeArea.iOS\Supporting Files">
+      <UniqueIdentifier>{77f4b9f9-0cd8-48ba-b35f-8382e34fbf5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SafeArea.iOS\Supporting Files\assest">
+      <UniqueIdentifier>{fbd83f85-5230-4fbc-ad17-af4405e5d3d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SafeArea.iOS\Supporting Files\assest\images">
+      <UniqueIdentifier>{77a4a1e5-46c0-447b-87ea-7c2b236f07de}</UniqueIdentifier>
+      <Extensions>SafeArea.iOS\assets\images\*</Extensions>
+    </Filter>
+    <Filter Include="SafeArea.iOS\Supporting Files\assest\maps">
+      <UniqueIdentifier>{65e29850-75ab-4f1b-b493-c86bca705676}</UniqueIdentifier>
+      <Extensions>SafeArea.iOS\assets\maps\*</Extensions>
+    </Filter>
+    <Filter Include="SafeArea.iOS\Supporting Files\assest\objectfiles">
+      <UniqueIdentifier>{fb54a1b9-06e8-4b27-a0ce-cfbb776f93a9}</UniqueIdentifier>
+      <Extensions>SafeArea.iOS\assets\objectfiles\*</Extensions>
+    </Filter>
+    <Filter Include="SafeArea.iOS\Supporting Files\assest\sounds">
+      <UniqueIdentifier>{2016bfc2-0fe7-4433-840b-3eae139cfa45}</UniqueIdentifier>
+      <Extensions>SafeArea.iOS\assets\sounds\*</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SafeArea.iOS\AppDelegate.mm">
+      <Filter>SafeArea.iOS</Filter>
+    </ClCompile>
+    <ClCompile Include="SafeArea.iOS\GameViewController.mm">
+      <Filter>SafeArea.iOS</Filter>
+    </ClCompile>
+    <ClCompile Include="SafeArea.iOS\ios_native_app_glue.cpp">
+      <Filter>SafeArea.iOS\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SafeArea.iOS\main.mm">
+      <Filter>SafeArea.iOS\Supporting Files</Filter>
+    </ClCompile>
+    <ClInclude Include="SafeArea.iOS\AppDelegate.h">
+      <Filter>SafeArea.iOS</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeArea.iOS\GameViewController.h">
+      <Filter>SafeArea.iOS</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeArea.iOS\ios_native_app_glue.h">
+      <Filter>SafeArea.iOS\Supporting Files</Filter>
+    </ClInclude>
+    <Content Include="SafeArea.iOS\assets\images\car_top.png">
+      <Filter>SafeArea.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\images\car_top1.png">
+      <Filter>SafeArea.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\images\City_Roads1_mip0.png">
+      <Filter>SafeArea.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\images\dirtblock.png">
+      <Filter>SafeArea.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\images\north_south_east_west_logo.png">
+      <Filter>SafeArea.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\images\olcpgemobilelogo.png">
+      <Filter>SafeArea.iOS\Supporting Files\assest\images</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\maps\example1.city">
+      <Filter>SafeArea.iOS\Supporting Files\assest\maps</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\objectfiles\unitcube.obj">
+      <Filter>SafeArea.iOS\Supporting Files\assest\objectfiles</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\sounds\SampleA.wav">
+      <Filter>SafeArea.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\sounds\SampleB.wav">
+      <Filter>SafeArea.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\sounds\SampleC.wav">
+      <Filter>SafeArea.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\sounds\Sample_Test_44100.wav">
+      <Filter>SafeArea.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\sounds\Sample_Test_48000.wav">
+      <Filter>SafeArea.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\sounds\song1.mp3">
+      <Filter>SafeArea.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\assets\sounds\testmusic.mp3">
+      <Filter>SafeArea.iOS\Supporting Files\assest\sounds</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\Base.lproj\Main.storyboard">
+      <Filter>SafeArea.iOS</Filter>
+    </Content>
+    <Content Include="SafeArea.iOS\Images.xcassets\AppIcon.appiconset\Contents.json">
+      <Filter>SafeArea.iOS\Images.xcassets\AppIcon.appiconset</Filter>
+    </Content>
+    <InfoPlist Include="SafeArea.iOS\Info.plist">
+      <Filter>SafeArea.iOS\Supporting Files\assest</Filter>
+    </InfoPlist>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<payload>
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.iOS.StaticLibrary\ARM64\Debug\SafeArea.iOS.StaticLibrary.xcodeproj\project.pbxproj" changed="2024-06-19T17:11:21.5423578+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\main.cpp" changed="2024-06-19T17:09:28.8556885+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\ios_native_app_glue.h" changed="2024-06-18T16:45:56+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\miniaudio.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\olcPGEX_MiniAudio.h" changed="2024-06-18T16:45:56+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\olcPixelGameEngine_Mobile.h" changed="2024-06-18T15:43:28+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\olcUTIL_Geometry2D.h" changed="2024-06-19T15:50:25.4690519+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\sse2neon.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\stb_image.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.iOS.StaticLibrary\pch.h" changed="2024-06-19T15:12:13.2512418+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\EGL\egl.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\EGL\eglext.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\EGL\eglext_angle.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\EGL\eglplatform.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\EGL\Platform.h" changed="2024-06-18T15:41:34+01:00" />
+  <file path="C:\Users\jgalv\source\repos\SafeArea\SafeArea\OLCPGEMobile\SafeArea.Shared\KHR\khrplatform.h" changed="2024-06-18T15:41:34+01:00" />
+</payload>
